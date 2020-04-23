@@ -6,5 +6,10 @@ public class main {
         System.out.println("SubBranch1 commit");
         System.out.println("Add to branch 2 ");
         System.out.println("Add to branch 2 test ");
+        test();
+    }
+
+  public static void test(){
+        System.out.println("print line");
     }
 }
