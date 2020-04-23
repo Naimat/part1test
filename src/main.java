@@ -5,5 +5,6 @@ public class main {
         System.out.println("Employee 2 Commit");
         System.out.println("SubBranch1 commit");
         System.out.println("Add to branch 2 ");
+        System.out.println("Add to branch 2 test ");
     }
 }
